@@ -1,5 +1,5 @@
 # Expense-Tracker
-This app lets you track your expenses, so it's easier to save money. 
+This app lets you track your daily expenses, so it's easier to save money. 
 
 Steps to Development.
 
